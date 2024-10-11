@@ -387,26 +387,3 @@ td video {
     max-height: 22px;
 }
 
-
-.ol-attribution {
-	display: none;
-}
-.bottom-attribution {
-	float: right;
-	position: relative;
-	display: flex;
-	}
-.bottom-attribution button {
-	display: none;
-	}
-.bottom-attribution ul {
-	padding: unset;
-	margin: unset;
-	display: flex;
-	list-style: none;
-	gap: 8px;
-	} 	
-.bottom-attribution > li {
-	padding-left: 8px !important;
-	list-style: none;	
-	}
